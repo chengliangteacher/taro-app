@@ -1,3 +1,3 @@
 export default {
-  navigationBarTitleText: '电影'
+    navigationBarTitleText: '电影'
 }

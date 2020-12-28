@@ -3,22 +3,22 @@ import { View, Text } from '@tarojs/components'
 
 export default class Mine extends Component {
 
-  componentWillMount() { }
+    componentWillMount() { }
 
-  componentDidMount() { }
+    componentDidMount() { }
 
-  componentWillUnmount() { }
+    componentWillUnmount() { }
 
-  componentDidShow() {
-  }
+    componentDidShow() {
+    }
 
-  componentDidHide() { }
+    componentDidHide() { }
 
-  render() {
-    return (
-      <View className='cinema'>
-        <Text>mine</Text>
-      </View>
-    )
-  }
+    render() {
+        return (
+            <View className='cinema'>
+                <Text>mine</Text>
+            </View>
+        )
+    }
 }
